@@ -1,6 +1,6 @@
 # before start u Should know before 
-1.Node.js ( npm )
-2.javascript  
+    1.Node.js ( npm )
+    2.javascript  
 
 # what does a task runner do ? 
 
@@ -17,6 +17,6 @@
 
 - Concatenating Files : turn 50 files of js/css into less number of files which reduce the HTTP request 
 
-There is other task runners : 
+## task runners : 
 - Grunt 
 - Gulps
